@@ -1,0 +1,3 @@
+﻿  task1-game-c.cpp
+C:\Users\remus\source\repos\task1-game-c\task1-game-c\DrawableGameComponent.h(70,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  task1-game-c.vcxproj -> C:\Users\remus\source\repos\task1-game-c\Debug\task1-game-c.exe
